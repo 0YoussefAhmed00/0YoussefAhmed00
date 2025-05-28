@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Youssef Ahmed 👋
 
-<!--
-**0YoussefAhmed00/0YoussefAhmed00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 My GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
 
-Here are some ideas to get you started:
+## 🔥 My Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&date_format=j%20M%5B%20Y%5D)](https://github.com/yourusername)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.herokuapp.com/graph?username=yourusername&theme=github-dark)
+
+## 🏷️ Metrics
+![Metrics](https://metrics.lecoq.io/yourusername)
+
+## 👀 Visitors
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+---
+*Last updated on <your-date>*
+
