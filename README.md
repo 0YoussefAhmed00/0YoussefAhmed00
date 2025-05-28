@@ -19,10 +19,8 @@
 - 🎓 Studying Computer Science, focusing on **Game Design & Development**.  
 - 🤖 Explored various AI projects, but my passion lies in interactive NPCs and storytelling.  
 - 🌐 Find me online:  
-  - [GitHub](https://github.com/0YoussefAhmed00)  
   - [itch.io](https://0YoussefAhmed00.itch.io)  
   - [LinkedIn](https://www.linkedin.com/in/youssefahmedln)  
 - 💬 Always open to discussing game ideas, collabs, or feedback—drop me a message!  
-- 🍕 Fun fact: I can’t say no to pizza.  
 
 ---
