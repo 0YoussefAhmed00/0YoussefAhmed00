@@ -29,7 +29,8 @@ I’m a Computer Science student passionate about game design and development. W
 
 - 🛠️ Currently crafting new, fun narrative-driven games in Unity.  
 - 🎓 Studying Computer Science, focusing on **Game Design & Development**.  
-- 🤖 Explored various AI projects, but my passion lies in interactive NPCs and storytelling.  
+- 🤖 Explored various AI projects, but my passion lies in interactive NPCs and storytelling.
+- ![My GIF](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif) that illustrates my AI-driven NPC workflow.  
 - 🌐 Find me online:   
   - [itch.io](https://0YoussefAhmed00.itch.io)  
   - [LinkedIn](https://www.linkedin.com/in/youssefahmedln)  
