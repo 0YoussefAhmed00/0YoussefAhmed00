@@ -4,6 +4,17 @@
 
 ---
 
+## 👨‍🎓 About Me
+I’m a Computer Science student passionate about game design and development. While I’ve explored AI-driven projects across various domains, my focus and heart lie in crafting engaging gameplay experiences—especially interactive narratives and dynamic NPCs—using Unity and C#.
+
+---
+
+## 📊 My GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0YoussefAhmed00&show_icons=true&theme=radical)](https://github.com/0YoussefAhmed00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0YoussefAhmed00&layout=compact&theme=radical)](https://github.com/0YoussefAhmed00)
+
+---
+
 ## 🛠️ Skills & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,8 +31,7 @@
 - 🎓 Studying Computer Science, focusing on **Game Design & Development**.  
 - 🤖 Explored various AI projects, but my passion lies in interactive NPCs and storytelling.  
 - 🌐 Find me online:  
+  - [GitHub](https://github.com/0YoussefAhmed00)  
   - [itch.io](https://0YoussefAhmed00.itch.io)  
   - [LinkedIn](https://www.linkedin.com/in/youssefahmedln)  
-- 💬 Always open to discussing game ideas, collabs, or feedback—drop me a message!  
-
----
+- 💬 Always open to discussing game ideas, collabs, or feedback—drop me a message! 
