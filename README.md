@@ -27,7 +27,7 @@ I’m a Computer Science student passionate about game design and development. W
 
 ## 📋 Quick Info
 
-- 🔭 Currently crafting new, fun narrative-driven games in Unity.  
+- 🛠️ Currently crafting new, fun narrative-driven games in Unity.  
 - 🎓 Studying Computer Science, focusing on **Game Design & Development**.  
 - 🤖 Explored various AI projects, but my passion lies in interactive NPCs and storytelling.  
 - 🌐 Find me online:   
