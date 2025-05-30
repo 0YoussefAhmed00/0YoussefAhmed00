@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍🎓 About Me
-I’m a Computer Science student passionate about game design and development. While I’ve explored AI-driven projects across various domains, my focus and heart lie in crafting engaging gameplay experiences—especially interactive narratives and dynamic NPCs—using Unity and C#.
+I’m a Computer Science graduate passionate about game design and development. While I’ve explored AI-driven projects across various domains, my focus and heart lie in crafting engaging gameplay experiences—especially interactive narratives and dynamic NPCs—using Unity and C#.
 
 ---
 
