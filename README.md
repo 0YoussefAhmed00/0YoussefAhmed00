@@ -1,15 +1,25 @@
 <!-- 🐉 Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/dragon.gif" width="200" alt="Animated Dragon"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Youssef+Ahmed;Game+Developer+%7C+Designer+%7C+Storyteller;Creating+Worlds+One+Line+of+Code+at+a+Time!" alt="Typing Animation" />
+  <span>
+    Hey there! I'm 
+    <span style="color:#E63946;">Youssef Ahmed</span> 
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving Hand">
+  </span>
 </h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0YoussefAhmed00.0YoussefAhmed00" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=0YoussefAhmed00&style=for-the-badge&color=E63946" alt="Profile Views"/>
 </p>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Game+Developer+;Creating+Worlds+One+Line+of+Code+at+a+Time!"/>
+</h3>
 
 ---
 
@@ -65,7 +75,7 @@ My focus lies in building **immersive worlds**, **interactive NPCs**, and **dyna
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/dragon.gif" width="180" alt="Dragon Animation"/>
+  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/dragon.gif" width="160" alt="Dragon Animation"/>
 </p>
 
 <h3 align="center">
