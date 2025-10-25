@@ -3,10 +3,10 @@
   <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/dragon.gif" width="200" alt="Animated Dragon"/>
 </p>
 
-<!-- Animated name + waving hand -->
+<!-- Animated name + pixel waving hand -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=820&lines=hey+i+am+Youssef+Ahmed" alt="Typing Name" />
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="48" alt="Waving Hand" style="vertical-align:middle; margin-left:8px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=820&lines=hey+iam+youssef+ahmed" alt="Typing Name" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="48" alt="Pixel Waving Hand" style="vertical-align:middle; margin-left:8px;" />
 </p>
 
 <p align="center">
