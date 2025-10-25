@@ -51,7 +51,7 @@ I specialize in building **interactive gameplay**, **dynamic NPCs**, and immersi
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[https://0YoussefAhmed00.itch.io](https://youssef-ahmed-m.itch.io/)" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+  <a href="https://youssef-ahmed-m.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/youssefahmedln" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
