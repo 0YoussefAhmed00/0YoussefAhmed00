@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#E63946;">Youssef Ahmed</span></h1>
 
 <p align="center">
-  <em>Game Developer | Designer | Storyteller</em><br>
+  <em>Game Developer</em><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0YoussefAhmed00.0YoussefAhmed00" alt="Profile Views">
 </p>
 
