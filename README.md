@@ -1,12 +1,13 @@
-<!-- Animated Dragon Header -->
+<!-- 🐉 Animated Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/dragon.gif" width="250" alt="Animated Dragon"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </p>
 
-<h1 align="center">👋 Hey there! I'm <span style="color:#E63946;">Youssef Ahmed</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Youssef+Ahmed;Game+Developer+%7C+Designer+%7C+Storyteller;Creating+Worlds+One+Line+of+Code+at+a+Time!" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <em>Game Developer</em><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0YoussefAhmed00.0YoussefAhmed00" alt="Profile Views">
 </p>
 
@@ -14,42 +15,34 @@
 
 ## 🧠 About Me
 
-🎮 I’m a **Computer Science graduate** with a strong passion for **game design and development**.  
-I specialize in creating **immersive gameplay**, **interactive narratives**, and **dynamic NPC systems** using **Unity & C#**.  
+🎮 I’m a **Computer Science graduate** deeply passionate about **Game Design and Development**.  
+My focus lies in building **immersive worlds**, **interactive NPCs**, and **dynamic stories** that blend technology and emotion.  
 
-💡 While I’ve explored **AI-driven projects** across domains, my true calling is blending code, art, and design to build worlds players can *feel*.
+💡 I’ve explored **AI-driven projects**, but my heart belongs to designing games that *feel alive* — where every mechanic has meaning, and every player action shapes the world.
 
 ---
 
 ## 🐉 Current Focus
 
-- 🧩 Developing **narrative-driven Unity projects** with strong character interactions.  
-- 🧠 Experimenting with **AI-based NPC behaviors** and **procedural storytelling**.  
-- 🌍 Exploring **game feel** and **player immersion** through design psychology.
+- 🧩 Crafting **narrative-driven Unity projects** with strong emotional design.  
+- 🧠 Building **AI-based NPC systems** and procedural storytelling tools.  
+- ⚡ Experimenting with **game feel**, **mechanical balance**, and **immersion**.
 
 ---
 
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,opengl,git&theme=dark" />
 </p>
 
 ---
 
-## 🧾 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/0YoussefAhmed00">
-    <img src="https://github-readme-stats.vercel.app/api?username=0YoussefAhmed00&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  </a>
-  <a href="https://github.com/0YoussefAhmed00">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0YoussefAhmed00&layout=compact&theme=radical&hide_border=true" height="165"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=0YoussefAhmed00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0YoussefAhmed00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E63946" height="165"/>
 </p>
 
 ---
@@ -63,10 +56,18 @@ I specialize in creating **immersive gameplay**, **interactive narratives**, and
 
 ---
 
+## 🐍 Contribution Animation
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
+
 <p align="center">
-  <em>"Code is my spellbook, and games are the worlds I conjure."</em> 🐉
+  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/dragon.gif" width="180" alt="Dragon Animation"/>
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Code+is+my+spellbook;Games+are+the+worlds+I+conjure+🐉" alt="Outro Typing Animation" />
+</h3>
